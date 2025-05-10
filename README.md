@@ -25,7 +25,7 @@ Para manter um histórico de commits claro e organizado, utilizo o padrão de em
 - `📦 novo:` para novas funcionalidades  
 - `🔥 remove:` para remoções de código ou arquivos
 
-Referência: [Gitmoji](https://gitmoji.dev/)
+Referência: [Gitmoji - 😜 😍 ](https://gitmoji.dev/)
 
 ## 📝 Licença
 
