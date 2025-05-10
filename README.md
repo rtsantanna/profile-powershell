@@ -8,6 +8,7 @@ Configurações e funções personalizadas para meu ambiente PowerShell.
 ├── profile.ps1  
 ├── modules/  
 └── README.md
+```
 
 ## ⚙️ Funcionalidades
 
