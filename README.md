@@ -3,12 +3,7 @@
 Configurações e funções personalizadas para meu ambiente PowerShell.
 
 ## 📂 Estrutura
-```shell
-📦 powershell/
-├── profile.ps1  
-├── modules/  
-└── README.md
-
+```
 📦 powershell/
 ├── profile.ps1  
 ├── modules/  
