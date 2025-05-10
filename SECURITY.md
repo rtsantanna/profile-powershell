@@ -18,7 +18,7 @@ Todos os commits deste repositório são assinados digitalmente com a chave GPG:
 
 Um hook de pre-commit é utilizado para evitar vazamento de dados sensíveis:
 
-- 🚫 Impede commits contendo o domínio corporativos
+- 🚫 Impede commits contendo domínios corporativos
 - 🔐 Validação automática via script antes de cada commit
 - ⚙️ Local: `.git/hooks/pre-commit`
 
@@ -32,7 +32,7 @@ Este repositório é de uso **pessoal**, mas aplica:
 
 - Padrões consistentes de versionamento
 - Boas práticas de segurança em shell
-- Isolamento completo por branch (`bash` / `powershell`)
+- Isolamento de GPG e hooks no escopo local
 - Commits rastreáveis e autenticados
 
 ---
